@@ -14,4 +14,4 @@ def math_gravitation(other_object_weight, distance_between):
 
 
 final_force = math_gravitation(other_obj_weight, distance)
-print("The gravitational force between the Earth and a given object is ~", final_force, "Newtons")  # Final Result
+print("The gravity force between the Earth and a given object is ~", final_force, "Newtons")  # Final Result
