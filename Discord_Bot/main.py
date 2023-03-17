@@ -19,7 +19,7 @@ async def test(ctx):
     for x in range(0,len(a)):
         await ctx.send(a[x])
 
-bot.run("MTA4NjM4NDU1NjE3MDU0NzI4Mg.GozLpO.URjP2J4gsne32508wBeQm5IeEYojl0LgRLu3Bo")
+bot.run("")
 
 
 
